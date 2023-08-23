@@ -1,7 +1,9 @@
 Mi nombre es Freddy Vega
 
-Soy el CEO de Platzi y en
-mis timepos libres corro
-carreras, escribo libros y
+Soy el CTO de Platzi y en
+mis timepos libres juego
+tenis, escribo libros y
 hago cosas raras con
-Rasberry Pis y Arduino
+Raspberry Pis
+
+Mañana nos enfocaremos en su vida laboral
