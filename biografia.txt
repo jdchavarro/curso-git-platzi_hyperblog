@@ -4,4 +4,4 @@ Soy el CEO de Platzi y en
 mis timepos libres corro
 carreras, escribo libros y
 hago cosas raras con
-Rasberry Pis
+Rasberry Pis y Arduino
